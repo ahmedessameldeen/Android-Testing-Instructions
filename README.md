@@ -1,1 +1,45 @@
 # Android-Testing-Instructions
+
+- Make sure all screen designs matches the provided design by UI Designer including places of views,spacings,fonts, colors, icons ..etc 
+
+- Make sure that design fits with all supported devices with different screen sizes  
+
+- Make sure that design isn't pixelated in high resolutions screens 
+
+- Make sure that design looks the same for different operating system versions  
+
+- If the app support tablet make sure the design matches thre requirements  
+
+- Make sure that the app works as supposed in portrait and landscape modes 
+
+- Make sure app works well when changing device language to RTL/LTR languages  
+
+- Make sure app works well with night mode  
+
+- Make sure app works well with different system font sizes 
+
+- Make sure app works as supposed (online and/or offline) when turning on network or mobile data connection 
+
+- Make sure app performance isn't affected when loading large lists or doing heavy work in the background  
+
+- Make sure app launch icon looks good with different OS versions  
+
+- Make sure app is using only the required permissions 
+
+- Make sure that keyboard doens't hide any data entry field  
+
+- Make sure that appropriate loaders appear when needed 
+
+- Make sure appropriate error messages appear in different situations 
+
+- Make sure appropriate dialogs appear in different situations  
+
+- Make sure app features works well especially for apis under 21 (below android 5) 
+
+- Make sure that notch doesn't affect app by any way  
+
+- Make sure that notification icon looks fine in all different devices  
+
+- Make sure that database tables update doesn't affect any previous version of the app  
+
+- Make sure that fcm notifications is received for android 8 and higher  
