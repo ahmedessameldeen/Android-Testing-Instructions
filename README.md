@@ -6,7 +6,7 @@
 
 - Make sure that design isn't pixelated in high resolutions screens 
 
-- Make sure that design looks the same for different operating system versions  
+- Make sure that design looks the same for different android versions  
 
 - If the app support tablet make sure the design matches thre requirements  
 
