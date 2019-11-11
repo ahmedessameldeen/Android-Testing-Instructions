@@ -1,4 +1,19 @@
-# Android-Testing-Instructions
+![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjq_cqXkOLlAhWQalAKHZiBC4IQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.theverge.com%2F2019%2F8%2F22%2F20827231%2Fandroid-10-q-google-name-officially-announced-new-logo-wordmark-desserts&psig=AOvVaw17LSD8dRde-aDtHhqHlnde&ust=1573560591502738"Logo Title Text 1")# Android-Testing-Instructions 
+
+# Android OS Versions
+|Code Name             |Version Number    |Release Date       |Api Level
+|----------------------|------------------|-------------------|---------
+|Honeycomb	       |3.0 - 3.2.6       |February 22, 2011  |11 – 13
+|Ice Cream Sandwich    |4.0 - 4.0.4       |October 18, 2011   |14 – 15	
+|Jelly Bean            |4.1.0 - 4.3.1     |July 9, 2012	      |16 – 18	
+|KitKat                |4.4.0 - 4.4.4     |October 31, 2013   |19 – 20	
+|Lollipop              |5.0 - 5.1.1       |November 12, 2014  |21 – 22	
+|Marshmallow           |6.0 - 6.0.1       |October 5, 2015    |23
+|Nogat                 |7.0 - 7.1.2       |August 22, 2016    |24 - 25
+|Oreo                  |8.0 - 8.1.0       |August 21, 2017    |26 – 27	
+|Pie                   |9.0               |August 6, 2018     |28
+|Q                     |10.0              |September 3, 2019  |29
+
 # General
 - Make sure app is using only the required permissions
 - Make sure app features works well especially for apis under 21 (below android 5)
