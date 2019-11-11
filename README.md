@@ -1,5 +1,4 @@
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjq_cqXkOLlAhWQalAKHZiBC4IQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.theverge.com%2F2019%2F8%2F22%2F20827231%2Fandroid-10-q-google-name-officially-announced-new-logo-wordmark-desserts&psig=AOvVaw17LSD8dRde-aDtHhqHlnde&ust=1573560591502738"Logo Title Text 1")# Android-Testing-Instructions 
-
+![alt text]http://pngimg.com/uploads/android_logo/android_logo_PNG35.png"Logo Title Text 1")# Android-Testing-Instructions
 # Android OS Versions
 |Code Name             |Version Number    |Release Date       |Api Level
 |----------------------|------------------|-------------------|---------
