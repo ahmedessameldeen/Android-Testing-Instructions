@@ -1,4 +1,4 @@
-![alt text](http://pngimg.com/uploads/android_logo/android_logo_PNG35.png"Logo Title Text 1")# Android-Testing-Instructions
+![alt text](http://pngimg.com/uploads/android_logo/android_logo_PNG35.png "Android")# Android-Testing-Instructions
 # Android OS Versions
 |Code Name             |Version Number    |Release Date       |Api Level
 |----------------------|------------------|-------------------|---------
