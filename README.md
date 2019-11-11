@@ -2,6 +2,7 @@
 # General
 - Make sure app is using only the required permissions
 - Make sure app features works well especially for apis under 21 (below android 5)
+	> Some features arn't available for android versions < 21 and need handling, for example status bar color, rounded corners ...etc
 - Make sure that database tables update doesn't affect any previous version of the app  
 # Design
 - Make sure all screen designs matches the provided design by UI Designer including places of views,spacings,fonts, colors, icons ..etc 
