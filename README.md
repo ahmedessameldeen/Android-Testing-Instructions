@@ -30,6 +30,7 @@
 - Ensure that the application provides a method for going back or undoing an action, on touching the wrong item, within an acceptable duration.
 - Validate the application prompts the user whenever the user starts downloading a large amount of data which may be not conducive for the application performance.
 - Validation of the process where the connection is suspended, the system needs to re-establish for recovering the data directly affected by the suspended connection
+- Validate that the app integrates well with different camera or image providinga apps.
 # Design
 - Make sure all screen designs matches the provided design by UI Designer including places of views,spacings,fonts, colors, icons ..etc 
 - Make sure that design fits with all supported devices with different screen sizes
